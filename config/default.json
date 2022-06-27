@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://Islem:12345678a@cluster0.3gdwm.mongodb.net/auth_ws?retryWrites=true&w=majority",
+    "secret":"shhh"
+}
